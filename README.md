@@ -16,7 +16,7 @@ It will:
 ## Usage
 1. clone this repo
    ```bash
-   $ git clone git@git.realestate.com.au:dave-greig/aws-timer.git ~/.aws-timer
+   $ git clone git@github.com:roadwig/aws-timer.git ~/.aws-timer
    ```
 2. source the script in your `~/.zshrc` file
    ```bash
